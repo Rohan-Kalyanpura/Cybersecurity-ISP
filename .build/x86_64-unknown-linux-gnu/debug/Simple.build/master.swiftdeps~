@@ -1,0 +1,6 @@
+version: "Swift version 5.5.3 (swift-5.5.3-RELEASE)"
+options: "5d59080a376798b1e56a6096c213c0d70a5efc0a15d48cf9fb7da968ca254f3b"
+build_start_time: [1649429504, 174247026]
+build_end_time: [1649429509, 515661954]
+inputs:
+  "/home/rohan-kalyanpura/cyber/main.swift": !private [1649429465, 405194282]
