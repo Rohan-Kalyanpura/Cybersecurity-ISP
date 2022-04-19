@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/home/rohan-kalyanpura/cyber/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/rohan-kalyanpura/cyber/main.swift": {
+    "dependencies": "/home/rohan-kalyanpura/cyber/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/rohan-kalyanpura/cyber/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/rohan-kalyanpura/cyber/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/rohan-kalyanpura/cyber/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  },
+  "/home/rohan-kalyanpura/cyber/test.swift": {
+    "dependencies": "/home/rohan-kalyanpura/cyber/.build/x86_64-unknown-linux-gnu/debug/Simple.build/test.d",
+    "object": "/home/rohan-kalyanpura/cyber/.build/x86_64-unknown-linux-gnu/debug/Simple.build/test.swift.o",
+    "swiftmodule": "/home/rohan-kalyanpura/cyber/.build/x86_64-unknown-linux-gnu/debug/Simple.build/test~partial.swiftmodule",
+    "swift-dependencies": "/home/rohan-kalyanpura/cyber/.build/x86_64-unknown-linux-gnu/debug/Simple.build/test.swiftdeps"
+  }
+}
