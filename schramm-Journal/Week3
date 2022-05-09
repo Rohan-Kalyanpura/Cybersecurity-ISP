@@ -1,0 +1,4 @@
+4/20/2022
+We came up with a plan to access the '5.txt' file in Mr. Kocher's home directory. The key here is to not raise the suspicion of Kocher, so we will not try to logon to his account directly from the shell. Instead, we can simply get remote access to his home directory by doing: cd /home/philip-kocher/ after this, we can now access the 5.txt file. 
+
+Our plan to decode the 5.txt file is to use SFTP in order to download the file data without directly reading it, therefore Mr Kocher won't know this has taken place. Even if Kocher intercepts the transmission, it will be encrypted so he will only see gibberish. 

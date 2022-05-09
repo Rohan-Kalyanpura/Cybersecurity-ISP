@@ -1,0 +1,5 @@
+4/03/2022
+Given that we now have permission to acccess Mr Kocher's password, my partner and I will start to research and learn more about hash's and how they work, and the differences between MD5, Blowfish, SHA-256, etc.
+
+4/12/2022
+Given the hash in /etc/passwd/ we are now able to successfully provide Supervisor Wray with the password for Mr. Kocher's account on CoderMerlin. After running our hasher script, we have found that his password is: WLDME_FOREVER2005
