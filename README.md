@@ -1,2 +1,2 @@
 # Cybersecurity-ISP
-Cybersecurity ISP: Rohan-Kalyanpura, Matthew Schramm
+Cybersecurity ISP: Rohan Kalyanpura, Matthew Schramm
