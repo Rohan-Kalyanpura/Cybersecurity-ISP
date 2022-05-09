@@ -11,7 +11,7 @@ def computeMD5hash(my_string):
 
 import itertools
 with open(path) as f:
-    for i in range(6900000):
+    for i in range(61267100):
         next(f)
     for line in f:
         print(line)
