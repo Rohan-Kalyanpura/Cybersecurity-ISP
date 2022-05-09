@@ -3,7 +3,6 @@
 import hashlib
 path  = '/usr/txt/merlin/dictionaryAttack/dictionary1.txt'
 file1 = open('/usr/txt/merlin/dictionaryAttack/dictionary1.txt', 'r')
-count = 0
 def computeMD5hash(my_string):
     print(my_string)
     m = hashlib.md5()
