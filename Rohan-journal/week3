@@ -1,0 +1,4 @@
+Running out cpu time was one of my biggest problems and my solution to that came from two ideas
+one was to split the file into manageble parts and search everyone till we found the password containg file
+or too run till it crashes then start from there which is the method i chose. to accomplish this i used the ile seek methodoligy to
+make it much easier to start at a specific line and keep going till we ran out of cpu time or found the password.
