@@ -1,0 +1,4 @@
+Our most recent problem was to figure out how to find where and when the file was going because of my knowledge
+in adobe i realized that it had to  be an image from the adobe metadata that was present within the file which indicated it was a image
+This lead me to try and copy the file into a text document but even with the side numbers removed using linum mode it did not translate at all that was when
+i realized that i needed to change the file signature at the top of the file from text to png which would allow me to then change the file extension from .txt to .png and view the file which is included in our github repository along with the 5.txt file

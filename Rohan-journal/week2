@@ -1,0 +1,3 @@
+We started by using the haslib library and seift to implement the password cracker but due to limitation in both
+my knowledge of swift and much more ease of use in pythons methodoligy in reading and parsing through files
+i decided to switch launguage from swift to python and make use of the hashlib library.
