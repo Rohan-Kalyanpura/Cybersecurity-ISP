@@ -8,7 +8,6 @@ def computeMD5hash(my_string):
     digest.update(my_string.strip().encode('utf-8')) 
     return digest.hexdigest()  
 
-import itertools # Fast, memory-efficient module for complex iterations
 with open(path) as f:
     for i in range(61267100):
         next(f)
